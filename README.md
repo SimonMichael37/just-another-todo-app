@@ -1,6 +1,8 @@
 # Just Another Todo Application
-A simple todo application that can be run in command line.<br>
-LANGUAGE: C<br>
+A simple todo application that can be run in command line.
+
+LANGUAGE: C
+
 PLATFORM: Linux
 
 # How to build
