@@ -1,6 +1,7 @@
 # Just Another Todo Application
 A simple todo application that can be run in command line.
-Made in C.
+LANGUAGE: C
+PLATFORM: Linux
 
 # How to build
 On the console, just run "make build" in the project directory.
